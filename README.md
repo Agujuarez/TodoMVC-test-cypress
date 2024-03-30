@@ -9,4 +9,5 @@ Las pruebas se encuentran en el directorio `cypress/e2e` y cubren las siguientes
 - Marcar tareas como completadas
 
 Mira un video de demostración de las pruebas aquí: 
-<video src=Grabación%201.mp4 width=800/>
+
+![Gif de la prueba](Grabación-1.gif)
