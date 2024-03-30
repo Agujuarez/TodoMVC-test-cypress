@@ -1,0 +1,42 @@
+# Dependencias
+node_modules/
+
+# Archivos de ambiente
+.env
+.env.local
+.cypress.env.json
+
+# Carpetas de Cypress
+cypress/screenshots/
+cypress/videos/
+
+# Archivos de cobertura
+coverage/
+
+# Archivos de registro
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Directorios y archivos de editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Archivos de construcción
+/dist
+/build
+/tmp
+
+# Archivos y carpetas de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Dependencias locales
+bower_components/
+jspm_packages/
+
+# Herramientas de pruebas
+*.log
